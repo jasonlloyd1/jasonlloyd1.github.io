@@ -22,11 +22,11 @@ Three examples of projects I've finished in past classes that showcase my profic
 
 I will illustrate the following course results in this ePortfolio:
 
-**1.** Use techniques for creating cooperative settings that allow a range of audiences to assist in organizational decision-making in the computer science domain.
-**2.** Create, produce, and present oral, written, and visual communications of the highest caliber that are technically sound, logical, and well tailored to particular audiences and situations.
-**3.** Create and assess computational solutions that address a given issue while managing the trade-offs associated with design decisions by applying algorithmic concepts, computer science techniques, and standards relevant to the problem's solution.
-**4.** Show that you can apply sound and creative methods, abilities, and resources in computing practices to build computer solutions that add value and achieve industry-specific objectives.
-**5.** To identify possible weaknesses, address design faults, and guarantee privacy and improved security of data and resources, adopt a security mindset that foresees adversarial exploitation in software architecture and designs.
+1. Use techniques for creating cooperative settings that allow a range of audiences to assist in organizational decision-making in the computer science domain.
+2. Create, produce, and present oral, written, and visual communications of the highest caliber that are technically sound, logical, and well tailored to particular audiences and situations.
+3. Create and assess computational solutions that address a given issue while managing the trade-offs associated with design decisions by applying algorithmic concepts, computer science techniques, and standards relevant to the problem's solution.
+4. Show that you can apply sound and creative methods, abilities, and resources in computing practices to build computer solutions that add value and achieve industry-specific objectives.
+5. To identify possible weaknesses, address design faults, and guarantee privacy and improved security of data and resources, adopt a security mindset that foresees adversarial exploitation in software architecture and designs.
 
 **Informal Code Review**
 
@@ -45,10 +45,10 @@ I selected this artifact because it represents a foundational project where I fi
 
 This transition from Java to Python showcases several key skills:
 
-**1. Language Proficiency:** Demonstrates my ability to learn and apply a new programming language, specifically Python, and leverage its strengths.
-**2. Code Optimization:** Python's syntax and libraries allow for a more concise and readable implementation compared to the original Java code. This highlights my understanding of code optimization and best practices.
-**3. Problem-Solving:** Adapting the game logic and functionality from Java to Python requires a deep understanding of both languages and the ability to translate concepts effectively.
-**4. Object-Oriented Design:** The enhancement will allow me to refine the object-oriented design of the game, potentially introducing new classes and relationships to improve modularity and maintainability.
+1. Language Proficiency: Demonstrates my ability to learn and apply a new programming language, specifically Python, and leverage its strengths.
+2. Code Optimization: Python's syntax and libraries allow for a more concise and readable implementation compared to the original Java code. This highlights my understanding of code optimization and best practices.
+3. Problem-Solving: Adapting the game logic and functionality from Java to Python requires a deep understanding of both languages and the ability to translate concepts effectively.
+4. Object-Oriented Design: The enhancement will allow me to refine the object-oriented design of the game, potentially introducing new classes and relationships to improve modularity and maintainability.
 
 **Reflection on the Enhancement Process:**
 
@@ -58,16 +58,16 @@ The process of rewriting the game in Python will be a valuable learning experien
 
 Specifically, I expect to learn more about:
 
-**1. Pythonic Code:** Writing code that adheres to Python's conventions and best practices.
-**2. Python Libraries**: Utilizing libraries like random for game logic and potentially curses for a more interactive terminal-based interface.
-**3. Code Refactoring:** Improving the structure and organization of the code for better readability and maintainability.
+1. Pythonic Code: Writing code that adheres to Python's conventions and best practices.
+2. Python Libraries: Utilizing libraries like random for game logic and potentially curses for a more interactive terminal-based interface.
+3. Code Refactoring: Improving the structure and organization of the code for better readability and maintainability.
 
 **Course Outcomes:**
 
-**1.** Applying programming principles to solve problems.
-**2.** Developing software using different programming paradigms.
-**3.** Demonstrating proficiency in multiple programming languages.
-**4.** Collaborating effectively on software development projects.
+1. Applying programming principles to solve problems.
+2. Developing software using different programming paradigms.
+3. Demonstrating proficiency in multiple programming languages.
+4. Collaborating effectively on software development projects.
 
 
 **Enhancement Two: Algorithms and Data Structures**
@@ -82,10 +82,10 @@ I selected this artifact because it directly demonstrates my ability to apply so
 
 This enhancement significantly improved the artifact by ensuring a more comprehensive and well-rounded testing strategy. Specifically, I demonstrated skills in:
 
-**1. Test-Driven Development (TDD):** Writing tests before implementing features to guide development.
-**2. Boundary Value Analysis:** Identifying and testing edge cases to ensure robustness.
-**3. Exception Handling:** Verifying that the application gracefully handles unexpected errors.
-**4. Dependency Injection and Mocking:** Isolating and testing individual components in isolation.
+1. Test-Driven Development (TDD): Writing tests before implementing features to guide development.
+2. Boundary Value Analysis: Identifying and testing edge cases to ensure robustness.
+3. Exception Handling: Verifying that the application gracefully handles unexpected errors.
+4. Dependency Injection and Mocking: Isolating and testing individual components in isolation.
 
 **Reflection on the Enhancement Process:**
 
@@ -95,10 +95,10 @@ Feedback from peers and instructors was instrumental in identifying gaps in my t
 
 **Course Outcomes:**
 
-**1.** Designing and implementing software solutions using object-oriented principles. The CRUD application itself demonstrates this.
-**2.** Applying software testing methodologies to ensure code quality. The JUnit testing suite and its enhancements directly address this.
-**3.** Collaborating effectively in a team environment. (While this was an individual project, the feedback process simulated a collaborative environment.)
-However, I feel that the outcome related to **"managing complex software projects using industry-standard tools and techniques"** was only partially met. While I used version control (Git), the scope of the project didn't fully encompass the complexities of managing a large-scale software project.
+1. Designing and implementing software solutions using object-oriented principles. The CRUD application itself demonstrates this.
+2. Applying software testing methodologies to ensure code quality. The JUnit testing suite and its enhancements directly address this.
+3. Collaborating effectively in a team environment. (While this was an individual project, the feedback process simulated a collaborative environment.)
+However, I feel that the outcome related to "managing complex software projects using industry-standard tools and techniques" was only partially met. While I used version control (Git), the scope of the project didn't fully encompass the complexities of managing a large-scale software project.
 
 **Enhancement Three: Databases**
 
@@ -106,10 +106,10 @@ The core artifact is a MongoDB database built during CS340. It stores informatio
 
 The enhancement involved implementing more sophisticated search capabilities, allowing users to search by multiple criteria simultaneously (e.g., searching for all available dogs under two years old). I also improved the user interface for interacting with the database, making it more intuitive and user-friendly. This enhancement showcases my skills in:
 
-**1. Database Design and Optimization:** Improving query performance and data retrieval.
-**2. User Interface Design:** Creating a more intuitive and efficient user experience.
-**3. Problem-Solving:** Identifying and addressing limitations in the original design.
-**4. NoSQL Database Management:** Demonstrating proficiency in working with MongoDB.
+1. Database Design and Optimization: Improving query performance and data retrieval.
+2. User Interface Design: Creating a more intuitive and efficient user experience.
+3. Problem-Solving: Identifying and addressing limitations in the original design.
+4. NoSQL Database Management: Demonstrating proficiency in working with MongoDB.
 
 **Reflection on the Enhancement Process:**
 
@@ -123,8 +123,8 @@ The enhancement significantly improved the artifact by making it more practical 
 
 I believe this enhancement partially or fully met the following course outcomes:
 
-**1. Design and implement database solutions:** The artifact demonstrates my ability to design and implement a NoSQL database solution using MongoDB.
-**2. Apply software development principles:** The enhancement process involved applying principles of software design, testing, and debugging.
-**3. Collaborate effectively:** Seeking and incorporating feedback from others was a crucial part of the enhancement process.
+1. Design and implement database solutions: The artifact demonstrates my ability to design and implement a NoSQL database solution using MongoDB.
+2. Apply software development principles: The enhancement process involved applying principles of software design, testing, and debugging.
+3. Collaborate effectively: Seeking and incorporating feedback from others was a crucial part of the enhancement process.
 I feel that the outcome related to large-scale system design was not fully met, as this project focused on a smaller-scale application.
    
