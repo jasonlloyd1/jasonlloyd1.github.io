@@ -34,7 +34,7 @@ All three of the artifacts supplied in this portfolio are included in the code r
 
 ## YouTube Link
 
-<a href="https://www.youtube.com/watch?v=Yj4KP8nR7W4">Clickable Text</a>
+<a href="https://www.youtube.com/watch?v=Yj4KP8nR7W4">YouTube Link</a>
 
 
 **Enhancement One: Software Design and Engineering**
