@@ -32,7 +32,7 @@ I will illustrate the following course results in this ePortfolio:
 
 All three of the artifacts supplied in this portfolio are included in the code review that follows. I review each project separately, going over the functionality that is currently in place, any mistakes that will be fixed, and my plans for improving the project.
 
-## My Annotation
+## YouTube Link
 
 You can visit (https://youtu.be/Yj4KP8nR7W4) for more information.
 
