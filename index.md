@@ -52,18 +52,75 @@ This transition from Java to Python showcases several key skills:
 
 The enhancement will improve the artifact by making it more readable, maintainable, and potentially more feature-rich due to the ease of use of Python libraries.
 
+The process of rewriting the game in Python will be a valuable learning experience. I anticipate facing challenges in translating specific Java concepts to their Python equivalents and leveraging Python's libraries effectively. I plan to actively seek feedback from peers and instructors throughout the development process. This feedback will be crucial in identifying areas for improvement and ensuring the Python version is a significant upgrade over the original Java implementation.
+
+Specifically, I expect to learn more about:
+
+1. Pythonic Code: Writing code that adheres to Python's conventions and best practices.
+2. Python Libraries: Utilizing libraries like random for game logic and potentially curses for a more interactive terminal-based interface.
+3. Code Refactoring: Improving the structure and organization of the code for better readability and maintainability.
+
+I believe this enhancement will partially or fully meet several course outcomes, including:
+
+1. Applying programming principles to solve problems.
+2. Developing software using different programming paradigms.
+3. Demonstrating proficiency in multiple programming languages.
+4. Collaborating effectively on software development projects.
+
 
 **Enhancement Two: Algorithms and Data Structures**
 
-This artifact is a JUnit test case for a CRUD Java application that tests every method and verifies the data entered when interacting with a contact, appointment, and task generation system. It was first made for SNHU's CS-320 Software Testing course in September 2024. Since correctly testing software is an essential component of any application and I think it's a crucial talent, I included it in my portfolio. I didn't fully get JUnit tests or the concept of software testing in general when I first started this project. As a result, this project required numerous revisions and served as an excellent opportunity for me to hone my software test-building abilities.
+The artifact is a collection of JUnit tests for CS320. JUnit Testing for CRUD Java application designed to validate the functionality of my CRUD Java application. These tests were initially created to cover the basic CRUD operations, ensuring data persistence, retrieval, modification, and deletion were functioning as expected.
 
-I intended to make both the tests and the program itself more complicated. To make sure the application was comprehensively tested and well-rounded, I also intended to expand the coverage and close any test gaps. I did this by going over each Java class and the test classes that went with it. I found a lot of logical mistakes and testing holes. One frequent mistake I discovered was that I wrote the tests to check for data addition and update success, but I neglected to check for failures. I discovered problems with the program structure itself by fixing this logical flaw. I corrected all of these errors and rewrote all of the tests for the program to make them more complex and more thorough.
+I selected this artifact because it directly demonstrates my ability to apply software testing principles, a crucial skill for any software developer. The initial tests, while functional, were relatively simple and didn't fully explore edge cases or potential error conditions. Therefore, my enhancement focused on making both the tests and the program more complicated. This involved:
+
+1. Expanding Test Coverage: Adding tests to cover boundary conditions, invalid inputs, and error handling scenarios.
+2. Increasing Application Complexity: Introducing more complex data relationships and validation rules within the application itself.
+3. Implementing Mocking: Utilizing mocking frameworks to isolate components and test them independently.
+
+This enhancement significantly improved the artifact by ensuring a more comprehensive and well-rounded testing strategy. Specifically, I demonstrated skills in:
+
+1. Test-Driven Development (TDD): Writing tests before implementing features to guide development.
+2. Boundary Value Analysis: Identifying and testing edge cases to ensure robustness.
+3. Exception Handling: Verifying that the application gracefully handles unexpected errors.
+4. Dependency Injection and Mocking: Isolating and testing individual components in isolation.
+
+The process of enhancing the testing suite was incredibly valuable. I learned the importance of thinking critically about potential failure points and designing tests to proactively identify them. One challenge I faced was effectively mocking dependencies to isolate specific components for testing. I overcame this by researching different mocking frameworks and experimenting with various techniques.
+
+Feedback from peers and instructors was instrumental in identifying gaps in my test coverage and suggesting improvements to my testing strategy. For example, I initially focused primarily on positive test cases, but feedback encouraged me to consider negative test cases and error handling more thoroughly. This led to a significant improvement in the overall robustness of the application.
+
+Through these enhancements, I believe I partially or fully met several course outcomes, including:
+
+1. Designing and implementing software solutions using object-oriented principles. The CRUD application itself demonstrates this.
+2. Applying software testing methodologies to ensure code quality. The JUnit testing suite and its enhancements directly address this.
+3. Collaborating effectively in a team environment. (While this was an individual project, the feedback process simulated a collaborative environment.)
+However, I feel that the outcome related to "managing complex software projects using industry-standard tools and techniques" was only partially met. While I used version control (Git), the scope of the project didn't fully encompass the complexities of managing a large-scale software project.
 
 **Enhancement Three: Databases**
 
-In October 2024, this artifact was initially produced for CS-340: Programming Concepts. In order to find animals that meet the requirements for different rescue animal needs, such as water, disaster, and mountain rescues, this project uses a MongoDB database that contains records of animal shelters. The data is then output in a dashboard format that can be interacted with by filtering data, viewing a map to find the locations of the animals, and searching for animals that meet these needs. I selected this project since there was a lot of room for improvement in the database's search functionality and interaction. By allowing the user to contribute entries to the dashboard—a new feature—I hoped to improve the search function and how it appears in the dashboard's graph while also improving the user interface.
+The core artifact is a MongoDB database built during CS340. It stores information about animals in a shelter, including their species, breed, age, color, and name. I chose to include this artifact in my ePortfolio because it demonstrates my ability to design and implement a NoSQL database solution, a crucial skill in modern software development. The initial database provided basic CRUD (Create, Read, Update, Delete) operations. However, the search functionality was limited and inefficient.
 
-Through the addition of UI capability to add new animals to the database and the improvement of search algorithms to make them more efficient, I was able to improve user interactions with the database. These enhance both the dashboard's and MongoDB's overall usefulness. In an application like this one, where the only goal is to manage and interact with database records, this feature is crucial.
+The enhancement involved implementing more sophisticated search capabilities, allowing users to search by multiple criteria simultaneously (e.g., searching for all available dogs under two years old). I also improved the user interface for interacting with the database, making it more intuitive and user-friendly. This enhancement showcases my skills in:
 
-Since Python was one of the first languages I learnt, I had to brush up on my skills before beginning this project because I hadn't used it much outside of this one lesson in a number of years. Because the initial environment I worked on was a pre-built virtual machine with all of my tools installed, it was equally challenging to set up and get working. Making it possible to test the code on my own machine with little recall of the tools used and how to set them up again was the most challenging aspect of this project. This helped me realize how crucial the right IDE is and that I should focus on the right configurations going forward. Additionally helpful would be documentation on how to set up these projects. Although most classes need a README file to be included with the final projects, it was never recommended to thoroughly document the tools used, even if this would have been useful in retrospect.
+1. Database Design and Optimization: Improving query performance and data retrieval.
+2. User Interface Design: Creating a more intuitive and efficient user experience.
+3. Problem-Solving: Identifying and addressing limitations in the original design.
+4. NoSQL Database Management: Demonstrating proficiency in working with MongoDB.
+
+Reflection on the Enhancement Process:
+
+Enhancing this artifact was a valuable learning experience. Initially, I underestimated the complexity of optimizing search queries in MongoDB. I learned a great deal about indexing strategies, aggregation pipelines, and the importance of data modeling for efficient querying. I faced challenges in implementing complex search filters and ensuring that the search results were accurate and relevant.
+
+I actively sought feedback from my peers throughout the enhancement process. This feedback was instrumental in identifying areas for improvement, particularly in the user interface design.
+
+The enhancement significantly improved the artifact by making it more practical and user-friendly. The improved search functionality allows shelter staff to quickly and easily find animals that match specific criteria, which can ultimately lead to more successful adoptions.
+
+Course Outcomes:
+
+I believe this enhancement partially or fully met the following course outcomes:
+
+1. Design and implement database solutions: The artifact demonstrates my ability to design and implement a NoSQL database solution using MongoDB.
+2. Apply software development principles: The enhancement process involved applying principles of software design, testing, and debugging.
+3. Collaborate effectively: Seeking and incorporating feedback from others was a crucial part of the enhancement process.
+I feel that the outcome related to large-scale system design was not fully met, as this project focused on a smaller-scale application.
    
