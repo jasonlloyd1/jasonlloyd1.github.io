@@ -32,6 +32,11 @@ I will illustrate the following course results in this ePortfolio:
 
 All three of the artifacts supplied in this portfolio are included in the code review that follows. I review each project separately, going over the functionality that is currently in place, any mistakes that will be fixed, and my plans for improving the project.
 
+https://youtu.be/Yj4KP8nR7W4
+
+**Enhancement One: Software Design and Engineering**
+
+For this artifact I chose the IT-145 text-based adventure game. This game was a created in Java and was a turn-based game where the player could navigate from room to room and interact with objects. To enhance this artifact I am going to try to convert it from Java to Python to improve the flexibility of the game and help modernize it. I chose this artifact because the original code shows the fundamental skills and by enhancing it that will show an a broaded ranged of skills and make the project more complex. 
 
 
 **Enhancement Two: Algorithms and Data Structures**
