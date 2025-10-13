@@ -8,11 +8,11 @@ Hello there, I'm Jason Lloyd, and I started the Computer Science degree program 
 
 Academically and professionally, completing the Bachelor of Computer Science degree has been an amazing experience. I have been able to hone the technical knowledge and abilities necessary to succeed in the profession of computer science throughout the program. More significantly, I now have a better idea of who I am as a professional and what I want to achieve. This ePortfolio gave me the chance to demonstrate my knowledge, emphasize my technical skills, and consider how my education has equipped me to make a significant contribution in the workplace. 
 
-I studied a wide range of subjects in my coursework, all of which helped me become a more well-rounded software development professional. I've gained knowledge on how to tackle real-world issues in an organized and effective manner. My work at SNHU has given me the opportunity to build critical thinking and scalable solution design skills, which are essential for software development and systems design. As I've worked through the entire software development life cycle—from obtaining stakeholder needs to deployment—I've gotten comfortable using agile approaches, collaborative development tools, and version control systems like Git. I chose the very first coding project I did throughout my time at SNHU for one of my artifacts, IT-145 treasure game.
+Throughout this program, I have found that completing coursework and developing the ePortfolio has significantly contributed to shaping my professional goals and values, showcasing my strengths, and preparing me to enter the computer science field. The process of selecting artifacts, reflecting on their significance, and articulating their impact has forced me to critically evaluate my skills and identify areas for further development.
 
-One major area of concentration has been cybersecurity. I have gained a strong foundation in secure coding techniques through both academic research and practical application. In the current technological environment, where system flaws and data breaches can have detrimental effects, these qualities are crucial. I am certain that I can help create systems that are secure and work well by including security into every phase of development.
+Beyond the specific artifacts included in the ePortfolio, the program's curriculum has provided a solid foundation in key areas of computer science. For example, the rigorous coursework in data structures and algorithms has honed my problem-solving abilities and equipped me with the tools to design efficient and scalable solutions. Similarly, the software engineering and database courses have instilled best practices for developing robust and maintainable software systems. Furthermore, the emphasis on security principles throughout the program has heightened my awareness of potential vulnerabilities and the importance of secure coding practices.
 
-The capacity to work well in a team setting is just as crucial to technical expertise. The curriculum placed a strong emphasis on the value of stakeholder involvement, teamwork, and effective communication. Effective communication with stakeholders, both technical and non-technical, is crucial. I gained the ability to convert difficult technical ideas into language that the target audience could understand and find useful. This ability is essential for ensuring that technological solutions are in line with organizational objectives and for bridging the gap between development teams and business stakeholders.
+My experiences collaborating in team environments, both within and outside of the formal curriculum, have been invaluable in developing my communication and interpersonal skills. Working on group projects has taught me the importance of effective communication, conflict resolution, and shared responsibility. I have also learned to adapt my communication style to effectively convey technical information to both technical and non-technical stakeholders.
 
 I am certain that I am ready to make a significant contribution to the field of computer science as I am ready to move on to the next stage of my career. I now have a solid technical basis and my dedication to problem-solving, professional integrity, and lifelong learning has been strengthened by this program.
 
@@ -39,7 +39,18 @@ All three of the artifacts supplied in this portfolio are included in the code r
 
 **Enhancement One: Software Design and Engineering**
 
-For this artifact I chose the IT-145 text-based adventure game. This game was a created in Java and was a turn-based game where the player could navigate from room to room and interact with objects. To enhance this artifact I am going to try to convert it from Java to Python to improve the flexibility of the game and help modernize it. I chose this artifact because the original code shows the fundamental skills and by enhancing it that will show an a broaded ranged of skills and make the project more complex. 
+The initial artifact is a text-based treasure hunt game developed in Java for IT-140, Introduction to Scripting. The game involves navigating a virtual environment and collecting items to ultimately find the hidden treasure. It utilizes fundamental Java concepts such as object-oriented programming (OOP), conditional statements, loops, and data structures like arrays and lists to manage game elements and player interactions. The game was designed to be interactive and engaging, providing a basic but functional gaming experience.
+
+I selected this artifact because it represents a foundational project where I first applied core programming principles. While functional, it lacked the elegance and efficiency I've come to appreciate through subsequent courses. The enhancement I propose is to completely rewrite the game in Python.
+
+This transition from Java to Python showcases several key skills:
+
+1. Language Proficiency: Demonstrates my ability to learn and apply a new programming language, specifically Python, and leverage its strengths.
+2. Code Optimization: Python's syntax and libraries allow for a more concise and readable implementation compared to the original Java code. This highlights my understanding of code optimization and best practices.
+3. Problem-Solving: Adapting the game logic and functionality from Java to Python requires a deep understanding of both languages and the ability to translate concepts effectively.
+4. Object-Oriented Design: The enhancement will allow me to refine the object-oriented design of the game, potentially introducing new classes and relationships to improve modularity and maintainability.
+
+The enhancement will improve the artifact by making it more readable, maintainable, and potentially more feature-rich due to the ease of use of Python libraries.
 
 
 **Enhancement Two: Algorithms and Data Structures**
