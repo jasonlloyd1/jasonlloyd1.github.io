@@ -134,3 +134,6 @@ I believe this enhancement partially or fully met the following course outcomes:
 3. Collaborate effectively: Seeking and incorporating feedback from others was a crucial part of the enhancement process.
 I feel that the outcome related to large-scale system design was not fully met, as this project focused on a smaller-scale application.
    
+<a href="https://github.com/jasonlloyd1/jasonlloyd1.github.io/tree/main/Artifacts/Artifact%20Three/Artifact%20Three%20Original">Artifact Three Originals</a>
+
+<a href="https://github.com/jasonlloyd1/jasonlloyd1.github.io/tree/main/Artifacts/Artifact%20Three/Artifact%20Three%20Enhanced">Artifact Three Enhancements</a>
