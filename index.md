@@ -61,6 +61,8 @@ Specifically, I expect to learn more about:
 2. Python Libraries: Utilizing libraries like random for game logic and potentially curses for a more interactive terminal-based interface.
 3. Code Refactoring: Improving the structure and organization of the code for better readability and maintainability.
 
+<img src="https://github.com/jasonlloyd1/jasonlloyd1.github.io/blob/main/_assets/images/Artifact2Before.png"></img>
+
 **Course Outcomes:**
 
 1. Applying programming principles to solve problems.
