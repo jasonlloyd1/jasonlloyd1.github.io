@@ -1,5 +1,9 @@
 **CS-499 Capstone ePortfolio**
-October 14th, 2025
+
+^!d::
+     FormatTime, CurrentDateTime,, hh:mm tt M/dd/yyyy
+     SendInput, %CurrentDateTime%
+return
 
 **Introduction:**
 
