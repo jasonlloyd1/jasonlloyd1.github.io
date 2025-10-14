@@ -1,9 +1,19 @@
 **CS-499 Capstone ePortfolio**
 
-^!d::
-     FormatTime, CurrentDateTime,, hh:mm tt M/dd/yyyy
-     SendInput, %CurrentDateTime%
-return
+name: Get Current Date and Time
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  display-date-time:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Get Current Date and Time
+        run: echo "Current Date and Time: $(date)"
+
 
 **Introduction:**
 
