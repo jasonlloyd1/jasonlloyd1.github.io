@@ -51,6 +51,8 @@ This transition from Java to Python showcases several key skills:
 
 **Before:**
 
+<img src="https://jasonlloyd1.github.io/img/Artifact2Before.png" alt="Artifact 2 After">
+
 **After:**
 
 <img src="https://jasonlloyd1.github.io/img/Artifact2After.png" alt="Artifact 2 After">
