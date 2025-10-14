@@ -1,19 +1,5 @@
 **CS-499 Capstone ePortfolio**
 
-name: Get Current Date and Time
-
-on:
-  push:
-    branches:
-      - main
-
-jobs:
-  display-date-time:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Get Current Date and Time
-        run: echo "Current Date and Time: $(date)"
-
 
 **Introduction:**
 
