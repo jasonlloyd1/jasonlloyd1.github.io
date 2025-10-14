@@ -102,6 +102,10 @@ Feedback from peers and instructors was instrumental in identifying gaps in my t
 3. Collaborating effectively in a team environment. (While this was an individual project, the feedback process simulated a collaborative environment.)
 However, I feel that the outcome related to "managing complex software projects using industry-standard tools and techniques" was only partially met. While I used version control (Git), the scope of the project didn't fully encompass the complexities of managing a large-scale software project.
 
+<a href="https://github.com/jasonlloyd1/jasonlloyd1.github.io/tree/main/Artifacts/Artifact%20Two/Artifact%20Two%20Original">Artifact Two Originals</a>
+
+<a href="https://github.com/jasonlloyd1/jasonlloyd1.github.io/tree/main/Artifacts/Artifact%20Two/Artifact%20Two%20Enhanced">Artifact Two Enhancements</a>
+
 **Enhancement Three: Databases**
 
 The core artifact is a MongoDB database built during CS340. It stores information about animals in a shelter, including their species, breed, age, color, and name. I chose to include this artifact in my ePortfolio because it demonstrates my ability to design and implement a NoSQL database solution, a crucial skill in modern software development. The initial database provided basic CRUD (Create, Read, Update, Delete) operations. However, the search functionality was limited and inefficient.
