@@ -69,6 +69,7 @@ Specifically, I expect to learn more about:
 4. Collaborating effectively on software development projects.
 
 <a href="https://github.com/jasonlloyd1/jasonlloyd1.github.io/blob/main/Artifacts/Artifact%20One/Artifact%20One%20Original/IT145%20game.java">Artifact One Original</a>
+
 <a href="https://github.com/jasonlloyd1/jasonlloyd1.github.io/blob/main/Artifacts/Artifact%20One/Artifact%20One%20Enhanced/Enhance%20IT145%20game.java">Artifact One Enhanced</a>
 
 **Enhancement Two: Algorithms and Data Structures**
