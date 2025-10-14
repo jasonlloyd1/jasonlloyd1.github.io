@@ -38,7 +38,7 @@ All three of the artifacts supplied in this portfolio are included in the code r
 
 **Enhancement One: Software Design and Engineering**
 
-The initial artifact is a text-based treasure hunt game developed in Java for IT-140, Introduction to Scripting. The game involves navigating a virtual environment and collecting items to ultimately find the hidden treasure. It utilizes fundamental Java concepts such as object-oriented programming (OOP), conditional statements, loops, and data structures like arrays and lists to manage game elements and player interactions. The game was designed to be interactive and engaging, providing a basic but functional gaming experience.
+The initial artifact is a text-based treasure hunt game developed in Java for IT-145. The game involves navigating a virtual environment and collecting items to ultimately find the hidden treasure. It utilizes fundamental Java concepts such as object-oriented programming (OOP), conditional statements, loops, and data structures like arrays and lists to manage game elements and player interactions. The game was designed to be interactive and engaging, providing a basic but functional gaming experience.
 
 I selected this artifact because it represents a foundational project where I first applied core programming principles. While functional, it lacked the elegance and efficiency I've come to appreciate through subsequent courses. The enhancement I propose is to completely rewrite the game in Python.
 
@@ -68,6 +68,7 @@ Specifically, I expect to learn more about:
 3. Demonstrating proficiency in multiple programming languages.
 4. Collaborating effectively on software development projects.
 
+<a href="https://github.com/jasonlloyd1/jasonlloyd1.github.io/blob/main/Artifacts/Artifact%20One/Artifact%20One%20Original/IT145%20game.java">Artifact One Original</a>
 
 **Enhancement Two: Algorithms and Data Structures**
 
