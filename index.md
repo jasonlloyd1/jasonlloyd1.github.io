@@ -53,14 +53,6 @@ This transition from Java to Python showcases several key skills:
 3. Problem-Solving: Adapting the game logic and functionality from Java to Python requires a deep understanding of both languages and the ability to translate concepts effectively.
 4. Object-Oriented Design: The enhancement will allow me to refine the object-oriented design of the game, potentially introducing new classes and relationships to improve modularity and maintainability.
 
-**Before:**
-
-<img src="https://jasonlloyd1.github.io/img/Artifact2Before.png" alt="Artifact 2 After">
-
-**After:**
-
-<img src="https://jasonlloyd1.github.io/img/Artifact2After.png" alt="Artifact 2 After">
-
 **Reflection on the Enhancement Process:**
 
 The enhancement will improve the artifact by making it more readable, maintainable, and potentially more feature-rich due to the ease of use of Python libraries.
@@ -100,6 +92,14 @@ This enhancement significantly improved the artifact by ensuring a more comprehe
 2. Boundary Value Analysis: Identifying and testing edge cases to ensure robustness.
 3. Exception Handling: Verifying that the application gracefully handles unexpected errors.
 4. Dependency Injection and Mocking: Isolating and testing individual components in isolation.
+
+**Before:**
+
+<img src="https://jasonlloyd1.github.io/img/Artifact2Before.png" alt="Artifact 2 After">
+
+**After:**
+
+<img src="https://jasonlloyd1.github.io/img/Artifact2After.png" alt="Artifact 2 After">
 
 **Reflection on the Enhancement Process:**
 
