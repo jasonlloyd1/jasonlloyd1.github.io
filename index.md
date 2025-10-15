@@ -93,14 +93,6 @@ This enhancement significantly improved the artifact by ensuring a more comprehe
 3. Exception Handling: Verifying that the application gracefully handles unexpected errors.
 4. Dependency Injection and Mocking: Isolating and testing individual components in isolation.
 
-**Before:**
-
-<img src="https://jasonlloyd1.github.io/img/Artifact2Before.png" alt="Artifact 2 After">
-
-**After:**
-
-<img src="https://jasonlloyd1.github.io/img/Artifact2After.png" alt="Artifact 2 After">
-
 **Reflection on the Enhancement Process:**
 
 The process of enhancing the testing suite was incredibly valuable. I learned the importance of thinking critically about potential failure points and designing tests to proactively identify them. One challenge I faced was effectively mocking dependencies to isolate specific components for testing. I overcame this by researching different mocking frameworks and experimenting with various techniques.
